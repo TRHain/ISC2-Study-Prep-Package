@@ -1,0 +1,1 @@
+This is a simple study guide for ISC2 CC Exam - 2026 - Use at your own discretion. All infp taken from the ISC2 Study material. Simply broken out with site. Folllow the instructions to utilize correctly.
