@@ -37,4 +37,9 @@ A complete study guide covering:
 
 ---
 
+## Existing YouTube resources
+
+- ThorTeaches Certified in Cybersecurity (CC) – YouTube playlist  
+  https://www.youtube.com/playlist?list=PLmBCeNxXGfVZK60eCnb0csHB2AJj0-m8C
+
 *Licensed under the Unlicense - Public Domain*
